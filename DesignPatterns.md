@@ -1,5 +1,3 @@
-## Current components of the personnel computer ordered by level of technical familiarity
-
 ## 1. Singleton Pattern
 ### Description:
 The Singleton Centralizes the control of an object and makes sure that there is only one instance of the class in the system.
