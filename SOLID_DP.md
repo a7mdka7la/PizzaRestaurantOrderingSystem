@@ -1,5 +1,3 @@
-More that this, there are the SOLID Principles and Design Patterns, whereby the application that has been developed to address the pizza restaurant ordering system includes the following.
-
 ## 1. Singleton Patternt – InventoryManager
 
 ### SOLID Principles Addressed:
